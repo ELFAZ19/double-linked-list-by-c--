@@ -106,8 +106,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 👤 Author
 
-👤 **Your Name**  
-- GitHub: [@your-username](https://github.com/elfaz19)  
+👤 **ELFAZ DEJENE**  
+- GitHub: [ELFAZ19](https://github.com/elfaz19)  
 - Email: [ELFAZDEJENE@gmail.com ](https://elfazdjene@gmail.com)
 
 ---
