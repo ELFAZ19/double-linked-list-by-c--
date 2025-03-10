@@ -237,12 +237,12 @@ void deleteList(Student* head)
 void addDemoStudents(Student*& head, Student*& tail)
 {
 
-    insertAtEnd(head, tail, 1500785, "Abel ayele",23, "Computer Science", 4);
-    insertAtEnd(head, tail,1501750, "Yeabsra Dejene",22, "Computer Science", 4);
-    insertAtEnd(head, tail, 1502253, "Trhas Abrha",22, "Computer Science", 4);
-    insertAtEnd(head, tail,1502273, "Hebron Solomon",21, "Computer Science", 4);
-    insertAtEnd(head, tail,  1501538, "Nebiyu Ermiyas",24, "Computer Science", 4);
-    insertAtEnd(head, tail,151077, "Eman Jemal", 21,"Computer Science", 4);
+    insertAtEnd(head, tail, 785, "George Stacy",23, "Computer Science", 4);
+    insertAtEnd(head, tail,750, "Miss America",22, "Computer Science", 4);
+    insertAtEnd(head, tail, 253, "Alvin Maker",22, "Computer Science", 4);
+    insertAtEnd(head, tail,273, "Tiger Shark",21, "Computer Science", 4);
+    insertAtEnd(head, tail, 538, "Green Lantern",24, "Computer Science", 4);
+    insertAtEnd(head, tail,077, "Quentin Quire", 21,"Computer Science", 4);
 
     cout << "Demo mode added 6 students successfully.\n";
 }
